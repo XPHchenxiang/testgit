@@ -1,0 +1,34 @@
+<style>
+/*定义大盒子*/
+    #demo{              
+        overflow: ;
+        width:200px;
+        height:150px;
+        position: relative;
+    }
+/*图片盒子*/
+    #demoimg{
+        width:200px;
+        height:150px;
+        position: absolute;
+    }
+    #demoimg li{
+        float:left;
+        list-style: none;
+        width:200px;
+        height:150px;
+    }
+/*blue 部分是附加效果，图片下边对应的蓝色小块*/
+    #blue{
+        bottom:0;
+        position: absolute;
+    }
+    #blue li{
+        list-style: none;
+        width:30px;
+        height:5px;
+        background:#ccc;
+        float:left;
+        margin: 0 3px;
+    }
+ </style>

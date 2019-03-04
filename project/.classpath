@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_131">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/work/jar/mysqljdbc-jar/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/work/jar/mysqljdbc-jar/commons-dbcp-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/work/jar/mysqljdbc-jar/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/work/jar/mysqljdbc-jar/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/work/jar/mysqljdbc-jar/mysql-connector-java-5.1.35-sources.jar"/>
+	<classpathentry kind="lib" path="C:/work/jar/mysqljdbc-jar/standard-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/work/jar/FastJson.jar/FastJson.jar/fastjson-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/work/jar/导入出excel包/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/work/jar/导入出excel包/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/work/jar/导入出excel包/jdom.jar"/>
+	<classpathentry kind="lib" path="C:/work/jar/导入出excel包/poi-3.7.jar"/>
+	<classpathentry kind="lib" path="C:/work/testNG-jar/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/work/testNG-jar/java-client-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/work/testNG-jar/reportng-1.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/work/testNG-jar/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/work/testNG-jar/velocity-1.7-dep.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
